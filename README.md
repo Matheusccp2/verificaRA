@@ -35,8 +35,8 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## 👨‍🎓 Desenvolvedor
 - [Matheus Costa Caetano Pinto](https://github.com/Matheusccp2)
-
-
+- RA: R021ED3
+- Turma: DS2P17
 
 <br/>
 <br/>
