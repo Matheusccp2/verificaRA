@@ -1,0 +1,16 @@
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\bin\Debug\net8.0-windows\VerificaRA.exe
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\bin\Debug\net8.0-windows\VerificaRA.deps.json
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\bin\Debug\net8.0-windows\VerificaRA.runtimeconfig.json
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\bin\Debug\net8.0-windows\VerificaRA.dll
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\bin\Debug\net8.0-windows\VerificaRA.pdb
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\obj\Debug\net8.0-windows\VerificaRA.Frm_VerificaRA.resources
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\obj\Debug\net8.0-windows\VerificaRA.csproj.GenerateResource.cache
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\obj\Debug\net8.0-windows\VerificaRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\obj\Debug\net8.0-windows\VerificaRA.AssemblyInfoInputs.cache
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\obj\Debug\net8.0-windows\VerificaRA.AssemblyInfo.cs
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\obj\Debug\net8.0-windows\VerificaRA.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\obj\Debug\net8.0-windows\VerificaRA.dll
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\obj\Debug\net8.0-windows\refint\VerificaRA.dll
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\obj\Debug\net8.0-windows\VerificaRA.pdb
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\obj\Debug\net8.0-windows\VerificaRA.genruntimeconfig.cache
+C:\Users\conta\Documents\Matheus\Faculdade\Trabalho Fernando\VerificaRA\VerificaRA\obj\Debug\net8.0-windows\ref\VerificaRA.dll
