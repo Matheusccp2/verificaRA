@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\conta\\Documents\\Matheus\\Faculdade\\Trabalho Fernando\\verificaRA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C170697-AA27-4D55-B68E-4827247E166E}|VerificaRA\\VerificaRA.csproj|c:\\users\\conta\\documents\\matheus\\faculdade\\trabalho fernando\\verificara\\verificara\\frm_verificara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C170697-AA27-4D55-B68E-4827247E166E}|VerificaRA\\VerificaRA.csproj|solutionrelative:verificara\\frm_verificara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C170697-AA27-4D55-B68E-4827247E166E}|VerificaRA\\VerificaRA.csproj|c:\\users\\conta\\documents\\matheus\\faculdade\\trabalho fernando\\verificara\\verificara\\frm_verificara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C170697-AA27-4D55-B68E-4827247E166E}|VerificaRA\\VerificaRA.csproj|solutionrelative:verificara\\frm_verificara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Frm_VerificaRA.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\Documents\\Matheus\\Faculdade\\Trabalho Fernando\\verificaRA\\VerificaRA\\Frm_VerificaRA.cs",
+              "RelativeDocumentMoniker": "VerificaRA\\Frm_VerificaRA.cs",
+              "ToolTip": "C:\\Users\\conta\\Documents\\Matheus\\Faculdade\\Trabalho Fernando\\verificaRA\\VerificaRA\\Frm_VerificaRA.cs",
+              "RelativeToolTip": "VerificaRA\\Frm_VerificaRA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:54:04.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Frm_VerificaRA.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\conta\\Documents\\Matheus\\Faculdade\\Trabalho Fernando\\verificaRA\\VerificaRA\\Frm_VerificaRA.cs",
               "RelativeDocumentMoniker": "VerificaRA\\Frm_VerificaRA.cs",

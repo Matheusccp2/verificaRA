@@ -1,3 +1,5 @@
+using VerificaRA.Modelo;
+
 namespace VerificaRA
 {
     public partial class Frm_VerificaRA : Form

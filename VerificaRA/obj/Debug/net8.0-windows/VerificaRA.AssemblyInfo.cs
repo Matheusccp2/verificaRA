@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VerificaRA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b2abb9274822b523d62313d974f1a68e8005f93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6363aff5ae13fc3765d632a610beb541cf806387")]
 [assembly: System.Reflection.AssemblyProductAttribute("VerificaRA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VerificaRA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
